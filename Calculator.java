@@ -246,7 +246,6 @@ public class Calculator extends JFrame  {
 		});
 	}
 	public static void main(String[] args) {
-		//public static void main(String[] args) {
 		Calculator calc = new Calculator();
 	}
 }
