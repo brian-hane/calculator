@@ -1,6 +1,4 @@
-package hane1750_a04;
 import javax.swing.JFrame;
-
 import javax.swing.JTextField;
 import javax.swing.JPanel;
 import javax.swing.JButton;
