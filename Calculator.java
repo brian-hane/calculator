@@ -105,7 +105,6 @@ public class Calculator extends JFrame  {
 		frame.pack();
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
-		//frame.repaint();
 	}
 	/**
 	 * Registers listeners
